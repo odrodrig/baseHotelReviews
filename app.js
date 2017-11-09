@@ -11,7 +11,7 @@ const io = require('socket.io')(server);
 //Import Watson Developer Cloud SDK
 
 // Import service credentials
-const serviceCredentials = require('./service-credentials.json');
+//const serviceCredentials = require('./service-credentials.json');
 
 // Get the environment variables from Cloud Foundry
 const appEnv = cfenv.getAppEnv();
