@@ -1,5 +1,5 @@
----
 applications:
-- name: xxxxx
+- name: Hotels_Review
+  host: Hotels_Review
   instances: 1
   memory: 256M
